@@ -1,0 +1,11 @@
+<web-app>
+    <display-name>Hello World</display-name>
+    <servlet>
+        <servlet-name>Movie</servlet-name>
+        <servlet-class>com.app.Movie</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Movie</servlet-name>
+        <url-pattern>/movie</url-pattern>
+    </servlet-mapping>
+</web-app>

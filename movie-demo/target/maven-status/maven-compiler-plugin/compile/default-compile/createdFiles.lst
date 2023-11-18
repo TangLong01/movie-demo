@@ -1,0 +1,4 @@
+com\app\Movie.class
+com\app\entities\Movie.class
+com\app\model\MovieDAOImp.class
+com\app\model\MovieDAO.class
